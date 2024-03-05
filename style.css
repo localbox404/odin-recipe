@@ -1,0 +1,100 @@
+p
+{
+    color: rgb(0, 0, 0);
+    font-family:"Jacquarda Bastarda 9";
+    font-size: large;
+    font-weight: 700;
+
+}
+em
+{
+    text-shadow: -5px -5px 5px rgba(216, 179, 14, 0.438);
+    font-family:"Jacquarda Bastarda 9";
+}
+
+em:hover{
+    text-shadow: 5px -5px 5px rgb(211, 143, 17)
+    
+}
+
+ol
+{
+   color:rgb(182, 108, 13) ;
+   font-family:"Jacquarda Bastarda 9";
+}
+ul
+{
+   color:rgb(182, 108, 13) ;
+   font-family:"Jacquarda Bastarda 9";
+}
+
+ul:hover{
+    color:rgb(255, 147, 7) ;
+    font-family:"Jacquarda Bastarda 9";
+    
+}
+
+* {
+    width: 80%; /* Adjust the width as needed */
+    margin: auto; /* This centers the div horizontally */
+    text-align: center; /* This centers the content inside the div */
+
+}
+img
+{
+    height: 700px;
+    width: auto;
+    box-shadow: 7px 7px 7px;
+}
+h3{
+    font-family:"Jacquarda Bastarda 9";
+    color:rgb(83, 62, 39)
+
+}
+p:hover{
+    color:rgb(133, 121, 18)
+}
+
+
+.man{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    font-size: x-large;
+    color:rgb(155, 136, 32);
+    font-weight: 100;
+    font-family: monospace;
+}
+
+.man:hover{
+    color:rgb(226, 177, 43);
+    font-weight: 100;
+}
+
+.github .info:hover {
+    color:rgb(189, 39, 39);
+    font-family: cursive;
+}
+.github:hover {
+    color:rgb(91, 39, 189);
+    font-family: cursive;
+    
+}
+
+.github .info{
+    color:rgb(39, 184, 189);
+    font-family: fantasy;
+    font-weight: 200;
+
+}
+
+.github {
+    color:rgb(189, 39, 39);
+    font-family: fantasy;
+    font-weight: 200;
+    font-size:larger;
+    margin-bottom: 100px;
+
+}
+
+
+

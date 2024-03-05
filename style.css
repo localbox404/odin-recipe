@@ -62,7 +62,7 @@ p:hover{
     font-size: x-large;
     color:rgb(155, 136, 32);
     font-weight: 100;
-    font-family: monospace;
+    font-family:"Jacquarda Bastarda 9";
 }
 
 .man:hover{
@@ -72,24 +72,24 @@ p:hover{
 
 .github .info:hover {
     color:rgb(189, 39, 39);
-    font-family: cursive;
+    font-family: "Dancing Script"
 }
 .github:hover {
     color:rgb(91, 39, 189);
-    font-family: cursive;
+    font-family: "Dancing Script"
     
 }
 
 .github .info{
     color:rgb(39, 184, 189);
-    font-family: fantasy;
+    font-family:"Jacquarda Bastarda 9";
     font-weight: 200;
 
 }
 
 .github {
     color:rgb(189, 39, 39);
-    font-family: fantasy;
+    font-family:"Jacquarda Bastarda 9";
     font-weight: 200;
     font-size:larger;
     margin-bottom: 100px;
